@@ -7,7 +7,7 @@
 
 [Link](https://github.com/Yu-Xu25/cse15l-lab-reports/edit/main/index.md)
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fcat%2F&psig=AOvVaw3deCV6X3SFmHR_bmERyYgp&ust=1642188913511000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPj01ci8r_UCFQAAAAAdAAAAABAD)
+![Image](https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554__340.jpg)
 
 >I
 >am
