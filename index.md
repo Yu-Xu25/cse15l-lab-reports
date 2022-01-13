@@ -8,6 +8,7 @@
 
 [Link](https://github.com/Yu-Xu25/cse15l-lab-reports/edit/main/index.md)
 
+![Image](https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554__340.jpg)
 
 >I
 >am
