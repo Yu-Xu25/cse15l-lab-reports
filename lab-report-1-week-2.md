@@ -13,23 +13,24 @@ Yu Xu's CSE 15L Week 2 Lab Report
 1. If you are on Windows, [Install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 2. Look up your course-specific account for your course: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 3. In Visual Studio Code:
-> a.  Input command(with the letters in front of the '@' replaced by letters in your own course account):
+> *  Input command(with the letters in front of the '@' replaced by letters in your own course account):
 > 
->` ssh cs15lwi22zz@ieng6ucsd.edu`
+>`ssh cs15lwi22zz@ieng6ucsd.edu`
 > 
->b. If you are the first time connecting to the server, this is the massage you could get:
+> * If you are the first time connecting to the server, this is the massage you could get:
 >
->⤇ ssh cs15lwi22zz@ieng6.ucsd.edu
+>`⤇ ssh cs15lwi22zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+Are you sure you want to continue connecting (yes/no/[fingerprint])?`
 >
 >(Type "yes" as the answer)
 >
->c. Type in your passward (usually matches your TritionLink passward).
+>*  Type in your passward (usually matches your TritionLink passward).
 >
 >This is the output indicating you successfully log in the server:
 ![Image](server.png)
+>
 >Your terminal is connected to a computer in the UCSD CSE basement! Now you can run your commands on that computer.
 
 
@@ -38,13 +39,17 @@ Try running some of the commands `cd ~`, `cd`, `ls -lat`, `ls -a`, `ls <director
 >Here are some outputs you can get:
 >
 >![Image](ls.png)
+>
 >`ls -a` lists all the files in the directory
+>
 >`ls -lat` lists the files in order beginning from the latest.
 >
 >![Image](cd.png)
+>
 >`cd` changes directory
 >
 >![Image](pwd.png)
+>
 >`pwd` prints current working directory
 >
 >`mkdir` makes a new directory
