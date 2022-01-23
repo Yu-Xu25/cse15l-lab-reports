@@ -83,11 +83,10 @@ Some hints in writing commands that can optimize remote running:
 > 1. Write command in quote at the end of an *ssh* cammand to directly run it on the remote server, then immediately exit.
 >  For instance:
 >
->`ssh cs15lwi22@ieng6.ucsd.edu "ls"`
+>![Image](shortcut1.png)
 > 
 > 2. use semicolons to divide multiple commands allow the commands to be run on the same line.
 > For instance:
->
->`cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
+>![Image](shortcut2.png)
 
 ## Thank you for reading this report!
