@@ -81,12 +81,16 @@ The idea behinds `ssh` is a program called `ssh-keygen`, which creates a pair of
 ## Optimizing Remote Running
 Some hints in writing commands that can optimize remote running:
 > 1. Write command in quote at the end of an *ssh* cammand to directly run it on the remote server, then immediately exit.
->  For instance:
 >
->![Image](shortcut1.png)
+> For instance:
+>
+>![Image](shortcut2.png)
+>
 > 
 > 2. use semicolons to divide multiple commands allow the commands to be run on the same line.
+> 
 > For instance:
->![Image](shortcut2.png)
-
+>
+>![Image](shortcut1.png)
+>
 ## Thank you for reading this report!
